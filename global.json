@@ -1,0 +1,11 @@
+{
+  "projects": [
+    "Yoda.Common",
+    "Yoda.EntityFramework",
+    "Albert.Common",
+    "Albert.DataLayer",
+    "Albert.Services",
+    "Albert.WebApi",
+    "Albert.WebApi.Test"
+  ]
+}
